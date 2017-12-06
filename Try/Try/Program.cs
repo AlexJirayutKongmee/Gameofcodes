@@ -9,6 +9,9 @@ namespace Try
             Console.WriteLine("Hello World!");
             Console.ReadKey();
 
+            Console.Write("yo yo yo");
+            Console.ReadKey();
+
             //Alex
 
         }
