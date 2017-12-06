@@ -10,6 +10,8 @@ namespace Versionering_H1_Nicklas__Jacob_og_Alex_
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\Tec\Documents\GitHub\Gameofcodes\Try\Try\bin\Debug\Try.exe
+C:\Users\Tec\Documents\GitHub\Gameofcodes\Try\Try\bin\Debug\Try.pdb
+C:\Users\Tec\Documents\GitHub\Gameofcodes\Try\Try\obj\x86\Debug\Try.csproj.CoreCompileInputs.cache
+C:\Users\Tec\Documents\GitHub\Gameofcodes\Try\Try\obj\x86\Debug\Try.exe
+C:\Users\Tec\Documents\GitHub\Gameofcodes\Try\Try\obj\x86\Debug\Try.pdb
