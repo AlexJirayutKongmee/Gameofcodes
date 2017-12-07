@@ -1,0 +1,7 @@
+C:\Users\Tec\Documents\GitHub\Gameofcodes\Versionering_H1(Nicklas, Jacob og Alex)\bin\Debug\Versionering_H1(Nicklas, Jacob og Alex).exe.config
+C:\Users\Tec\Documents\GitHub\Gameofcodes\Versionering_H1(Nicklas, Jacob og Alex)\bin\Debug\Versionering_H1(Nicklas, Jacob og Alex).exe
+C:\Users\Tec\Documents\GitHub\Gameofcodes\Versionering_H1(Nicklas, Jacob og Alex)\bin\Debug\Versionering_H1(Nicklas, Jacob og Alex).pdb
+C:\Users\Tec\Documents\GitHub\Gameofcodes\Versionering_H1(Nicklas, Jacob og Alex)\obj\Debug\Versionering_H1(Nicklas, Jacob og Alex).csprojResolveAssemblyReference.cache
+C:\Users\Tec\Documents\GitHub\Gameofcodes\Versionering_H1(Nicklas, Jacob og Alex)\obj\Debug\Versionering_H1(Nicklas, Jacob og Alex).csproj.CoreCompileInputs.cache
+C:\Users\Tec\Documents\GitHub\Gameofcodes\Versionering_H1(Nicklas, Jacob og Alex)\obj\Debug\Versionering_H1(Nicklas, Jacob og Alex).exe
+C:\Users\Tec\Documents\GitHub\Gameofcodes\Versionering_H1(Nicklas, Jacob og Alex)\obj\Debug\Versionering_H1(Nicklas, Jacob og Alex).pdb
